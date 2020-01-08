@@ -1,0 +1,2 @@
+要查看原始資料丟進neural networks結果請使用OGneuralnetwork.py or OGneuralnetwork.ipynb
+要查看K值的影響程度結果請使用anonymizer.py or anonymizer.ipynb
